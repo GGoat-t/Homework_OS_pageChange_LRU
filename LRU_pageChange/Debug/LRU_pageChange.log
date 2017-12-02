@@ -1,0 +1,7 @@
+﻿  queue.c
+  main.c
+d:\programming\os\lru_pagechange\lru_pagechange\main.c(9): warning C4047: 'initializing': 'int *' differs in levels of indirection from 'int'
+  lru.c
+  Generating Code...
+  LRU_pageChange.vcxproj -> D:\programming\OS\LRU_pageChange\Debug\LRU_pageChange.exe
+  LRU_pageChange.vcxproj -> D:\programming\OS\LRU_pageChange\Debug\LRU_pageChange.pdb (Full PDB)
